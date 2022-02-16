@@ -1,0 +1,18 @@
+{
+  "name": "pokemon-ranger-editor",
+  "version": "1.0.0",
+  "description": "Add event missions to Pokémon Ranger 2 and 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "ranger",
+    "event",
+    "missions",
+    "editor"
+  ],
+  "author": "5tsuki, atlantis",
+  "license": "MIT"
+}
